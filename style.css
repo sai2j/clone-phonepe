@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 80px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    margin-left: 80px;
+}
+.nav{
+    display: flex;
+    align-items: center;
+}
+.nav a{
+    margin-left: 80px;
+    text-decoration: none;
+    color: black;
+}
+.nav a:hover{
+    color: purple;
+    transform: scale(1.0);
+}
+.main{
+    /* height: 400px;
+    width: 100%; */
+    height: 300px;
+    width: 97%;
+    margin: 10px;
+    padding: 10px;
+    background-color: blueviolet;
+    background-image: url(phonepay3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.footer{
+    height: 80vh;
+    display: flex;
+}
+.box1{
+    height:100vh;
+    width: 200px;
+}
+.box1 img{
+    margin: 25px;
+    padding: 25px;
+}
+.box2{
+    height:100vh;
+    width: 200px;
+}
+.box2 h3:hover{
+    color: purple;
+}
+.box2 h3{
+    /* margin-left: 30px; */
+    margin-top: 35px;
+}
+.box2 p:hover{
+    color: purple;
+}
+.box2 p{
+    /* text-align: center; */
+    margin-top: 20px;
+    opacity: 0.7px;
+}
+.box3{
+    height:100vh;
+    width: 200px;
+}
+.box3 h3{
+    /* margin-left:30px; */
+    margin-top: 35px;
+}
+.box3 h3:hover{
+    color: purple;
+}
+.box3 p:hover{
+    color:purple;
+}
+.box3 p{
+    /* text-align: center; */
+    margin-top: 20px;
+    opacity: 0.7px;
+}
+.box4{
+    height:100vh;
+    width: 200px;
+}
+.box4 h3{
+    /* margin-left: 30px; */
+    margin-top: 35px;
+}
+.box4 h3:hover{
+    color: purple;
+}
+.box4 p{
+    /* text-align: center; */
+    margin-top: 20px;
+    opacity: 0.7px;
+}
+.box5 h3{
+    /* margin-left: 30px; */
+    margin-top: 35px;
+}
+.box5{
+    height:100vh;
+    width: 200px;
+
+}
+.box5 h3:hover{
+    color: purple;
+}
+.box5 p{
+    /* text-align: center; */
+    margin-top: 20px;
+    opacity: 0.7px;
+}
+.box5 p:hover{
+    color:purple;
+}
+.box6{
+    height:100vh;
+    width: 200px;    
+}
+.box6 h3:hover{
+    color: purple;
+}
+.box6 h3{
+    /* margin-left: 30px; */
+    margin-top: 35px;
+}
+.box6 p{
+    /* text-align: center; */
+    margin-top: 20px;
+    opacity: 0.7px;
+}
+.box6 p:hover{
+    color:purple;
+}
+.box7{
+    height:100vh;
+    width: 200px;    
+}
+.box7 h3{
+    /* margin-left: 30px; */
+    margin-top: 35px;
+}
+.box7 h3:hover{
+    color: purple;
+ }
+.h2{
+    display: flex;
+    align-items: center;
+}
+.container{
+    font-weight: 200;
+    line-height: 2;
+    text-align: center;
+    word-spacing: 1px;
+}
+/* .container1{
+    height: 300px;
+    width: 70%; 
+    margin: 30px;
+    margin-right: 40px;
+    align-items: center;
+    background-color:white;
+    background-image: url(phonepe4.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+.container1:hover{
+
+}
+    
